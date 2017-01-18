@@ -20,10 +20,11 @@ use of.
             GlobalFunctions.FunctionRX = this.RX;
             GlobalFunctions.FunctionTX = this.TX;
         }
-       
+       ```
 
 <h3>STEP 2:</h3>
 
+```C#
         private void initProcessCluster()
         {
             int _baud;
@@ -51,16 +52,20 @@ use of.
                 //...Mesaj verilecek.
             }
         }
+        ```
 
 <h3>STEP 3:</h3>
 
+```C#
         public async void PortStart(PortCluster PC)
         {
             await Task.Run(() => PC.ProcessStart(null));
         }
+        ```
         
 <h3>STEP 4:</h3>
 
+```C#
         public short[] DashboardValues = new short[18];
         private void TimerDisplay_Tick(object sender, EventArgs e)
         {
@@ -81,9 +86,11 @@ use of.
             catch (Exception)
             { }
         }
+        ```
         
  <h3>STEP 5:</h3>
- 
+
+```C#
         private bool ObjectsValueSet()
         {
             return DisplayProcess();
