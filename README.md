@@ -5,7 +5,7 @@ use of.
 
 <h3>STEP 1:</h3>
 
-        <pre><code class='language-cs'>
+        ```C#
         private void Dashboard_Load(object sender, EventArgs e)
         {
             initProcessCluster();
@@ -19,7 +19,7 @@ use of.
             GlobalFunctions.FunctionRX = this.RX;
             GlobalFunctions.FunctionTX = this.TX;
         }
-        </code></pre>
+       ```
 
 <h3>STEP 2:</h3>
 
