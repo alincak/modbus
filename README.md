@@ -6,6 +6,7 @@ use of.
 <h3>STEP 1:</h3>
 
         ```C#
+        System.Windows.Forms.Timer TimerDisplay;
         private void Dashboard_Load(object sender, EventArgs e)
         {
             initProcessCluster();
