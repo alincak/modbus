@@ -1,0 +1,14 @@
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\bin\Debug\iztekno.modbus.dll
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\bin\Debug\iztekno.modbus.pdb
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\obj\Debug\modbus.csproj.ResolveComReference.cache
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\obj\Debug\iztekno.modbus.Properties.Resources.resources
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\obj\Debug\modbus.csproj.GenerateResource.Cache
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\obj\Debug\iztekno.modbus.dll
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\iztekno.modbus\obj\Debug\iztekno.modbus.pdb
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\obj\Debug\modbus.csproj.ResolveComReference.cache
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\obj\Debug\modbus.csproj.GenerateResource.Cache
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\bin\Debug\modbus.dll
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\bin\Debug\modbus.pdb
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\obj\Debug\modbus.Properties.Resources.resources
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\obj\Debug\modbus.dll
+C:\Users\kerem\Desktop\04_01_2017\ProbConfigAndLogger\modbus\obj\Debug\modbus.pdb
